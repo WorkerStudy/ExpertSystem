@@ -1,0 +1,21 @@
+# ninja log v5
+0	28	7372952037204873	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	53db5c306835e4fe
+0	28	7372952037204873	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	53db5c306835e4fe
+28	7091	7372952107831652	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	60367a01a914b512
+28	7091	7372952107831652	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	60367a01a914b512
+7091	9915	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	9f6eac88d924c267
+7091	9915	0	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	9f6eac88d924c267
+9920	9946	7372952136381469	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	f514ef2a6c5307c3
+9920	9946	7372952136381469	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	f514ef2a6c5307c3
+9947	9975	7372952136660540	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	5d40a2d18327aa69
+9947	9975	7372952136660540	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	5d40a2d18327aa69
+9976	10005	7372952136969618	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	f95f3a15b88fcfe8
+9976	10005	7372952136969618	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	f95f3a15b88fcfe8
+10005	10034	7372952137258532	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	1a5944771bfba879
+10005	10034	7372952137258532	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	1a5944771bfba879
+10034	10065	7372952137577464	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	7e574979aca54e42
+10034	10065	7372952137577464	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	7e574979aca54e42
+10066	10106	7372952137976139	CMakeFiles/ds-populate-complete	52b2fffc274bbf7f
+10066	10106	7372952137976139	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	52b2fffc274bbf7f
+10066	10106	7372952137976139	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	52b2fffc274bbf7f
+10066	10106	7372952137976139	D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	52b2fffc274bbf7f

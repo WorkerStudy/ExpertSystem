@@ -1,0 +1,14 @@
+--bare
+-I
+D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel
+-I
+D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/qml
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/.rcc/configuration.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/.rcc/qmake_Main.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/.rcc/ExpertSystemApp_raw_qml_0.qrc
+D:/projectForOMGTU/ExpertSystem/main.qml

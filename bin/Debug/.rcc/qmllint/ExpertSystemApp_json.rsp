@@ -1,0 +1,16 @@
+--bare
+-I
+D:/projectForOMGTU/ExpertSystem/bin/Debug
+-I
+D:/projectForOMGTU/ExpertSystem/bin/Debug/qml
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/Debug/.rcc/configuration.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/Debug/.rcc/qmake_Main.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/Debug/.rcc/ExpertSystemApp_raw_qml_0.qrc
+D:/projectForOMGTU/ExpertSystem/main.qml
+--json
+D:/projectForOMGTU/ExpertSystem/bin/Debug/ExpertSystemApp_qmllint.json

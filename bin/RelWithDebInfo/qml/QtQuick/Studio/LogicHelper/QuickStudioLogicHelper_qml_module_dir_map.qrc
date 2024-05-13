@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt-project.org/imports/QtQuick/Studio/LogicHelper">D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/qml/QtQuick/Studio/LogicHelper</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Безлимит",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    },
+    {
+        "name":"Безлимитище",
+        "zone": 50,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    },
+    {
+        "name":"Живем далеко",
+        "zone": 99,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    },
+    {
+        "name":"Вот еще тариф2",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    },
+    {
+        "name":"Тариф",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    },
+    {
+        "name":"Тариф2",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": "true",
+        "mms": "true",
+        "wap": "true"
+    }
+
+]

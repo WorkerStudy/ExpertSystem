@@ -1,0 +1,16 @@
+--bare
+-I
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/qml
+-I
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/qml
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/content/.rcc/qmake_content.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/content/.rcc/content_raw_qml_0.qrc
+D:/projectForOMGTU/ExpertSystem/content/App.qml
+D:/projectForOMGTU/ExpertSystem/content/Screen01.ui.qml
+D:/projectForOMGTU/ExpertSystem/content/ScreenExpert.qml
+D:/projectForOMGTU/ExpertSystem/content/Price.qml
+D:/projectForOMGTU/ExpertSystem/content/H1Text.qml

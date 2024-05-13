@@ -1,0 +1,213 @@
+{
+    "classes": [
+        {
+            "className": "Backend",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "listTarifs",
+                    "notify": "listTarifsChanged",
+                    "read": "listTarifs",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<Tarif*>",
+                    "user": false,
+                    "write": "setListTarifs"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "needWAP",
+                    "notify": "needWAPChanged",
+                    "read": "needWAP",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setneedWAP"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "needMMS",
+                    "notify": "needMMSChanged",
+                    "read": "needMMS",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setneedMMS"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "needSMS",
+                    "notify": "needSMSChanged",
+                    "read": "needSMS",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setneedSMS"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "maxCost",
+                    "notify": "maxCostChanged",
+                    "read": "maxCost",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setMaxCost"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "minCost",
+                    "notify": "minCostChanged",
+                    "read": "minCost",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setMinCost"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "maxTariffPlan",
+                    "notify": "maxTariffPlanChanged",
+                    "read": "maxTariffPlan",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setMaxTariffPlan"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "minTariffPlan",
+                    "notify": "minTariffPlanChanged",
+                    "read": "minTariffPlan",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setMinTariffPlan"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "name": "loaded",
+                    "notify": "loadedChanged",
+                    "read": "loaded",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setLoaded"
+                }
+            ],
+            "qualifiedClassName": "Backend",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "listTarifsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "needWAPChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "needMMSChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "needSMSChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "maxCostChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "minCostChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "maxTariffPlanChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "minTariffPlanChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadedChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "name": "sorting",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadData",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "backend.h",
+    "outputRevision": 68
+}

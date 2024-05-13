@@ -1,0 +1,10 @@
+-I
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/qml
+-I
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/qml
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/_deps/ds-build/src/imports/application/.rcc/qmake_QtQuick_Studio_Application.qrc
+--module
+QtQuick.Studio.Application

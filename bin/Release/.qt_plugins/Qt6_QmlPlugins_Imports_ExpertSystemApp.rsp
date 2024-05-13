@@ -1,0 +1,15 @@
+-rootPath
+D:/projectForOMGTU/ExpertSystem
+-cmake-output
+-output-file
+D:/projectForOMGTU/ExpertSystem/bin/Release/.qt_plugins/Qt6_QmlPlugins_Imports_ExpertSystemApp.cmake
+-importPath
+D:/projectForOMGTU/ExpertSystem/bin/Release/qml/Main
+-importPath
+D:/projectForOMGTU/ExpertSystem/bin/Release/qml
+-importPath
+C:/Qt/6.6.2/mingw_64/./qml
+-qrcFiles
+D:/projectForOMGTU/ExpertSystem/bin/Release/.rcc/configuration.qrc
+D:/projectForOMGTU/ExpertSystem/bin/Release/.rcc/qmake_Main.qrc
+D:/projectForOMGTU/ExpertSystem/bin/Release/.rcc/ExpertSystemApp_raw_qml_0.qrc

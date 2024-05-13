@@ -1,0 +1,15 @@
+--bare
+-I
+D:/projectForOMGTU/ExpertSystem/bin/Release/qml
+-I
+D:/projectForOMGTU/ExpertSystem/bin/Release/qml
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/Release/imports/ExpertSystem/.rcc/qmake_ExpertSystem.qrc
+--resource
+D:/projectForOMGTU/ExpertSystem/bin/Release/imports/ExpertSystem/.rcc/ExpertSystem_raw_qml_0.qrc
+D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/Constants.qml
+D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/DirectoryFontLoader.qml
+D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/EventListModel.qml
+D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/EventListSimulator.qml

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Main">D:/projectForOMGTU/ExpertSystem/bin/Release/qml/Main</file>
+
+  </qresource>
+</RCC>

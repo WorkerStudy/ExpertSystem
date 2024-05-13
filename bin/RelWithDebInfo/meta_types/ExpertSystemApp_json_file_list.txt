@@ -1,0 +1,2 @@
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/ExpertSystemApp_autogen/include/../UVLADIE3JM/moc_backend.cpp.json
+D:/projectForOMGTU/ExpertSystem/bin/RelWithDebInfo/ExpertSystemApp_autogen/include/../UVLADIE3JM/moc_tarif.cpp.json

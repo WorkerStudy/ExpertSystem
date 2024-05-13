@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/ExpertSystem/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ExpertSystemplugin_autogen_timestamp_deps::@e0c7cc448f19e1bacb10"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "ExpertSystemplugin_autogen::@e0c7cc448f19e1bacb10",
+	"isGeneratorProvided" : true,
+	"name" : "ExpertSystemplugin_autogen",
+	"paths" : 
+	{
+		"build" : "imports/ExpertSystem",
+		"source" : "imports/ExpertSystem"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "bin/RelWithDebInfo/imports/ExpertSystem/CMakeFiles/ExpertSystemplugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "bin/RelWithDebInfo/imports/ExpertSystem/CMakeFiles/ExpertSystemplugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "bin/RelWithDebInfo/imports/ExpertSystem/ExpertSystemplugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

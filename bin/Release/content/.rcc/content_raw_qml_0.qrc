@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">D:/projectForOMGTU/ExpertSystem/content/App.qml</file>
+    <file alias="Screen01.ui.qml">D:/projectForOMGTU/ExpertSystem/content/Screen01.ui.qml</file>
+    <file alias="ScreenExpert.qml">D:/projectForOMGTU/ExpertSystem/content/ScreenExpert.qml</file>
+    <file alias="Price.qml">D:/projectForOMGTU/ExpertSystem/content/Price.qml</file>
+    <file alias="H1Text.qml">D:/projectForOMGTU/ExpertSystem/content/H1Text.qml</file>
+    <file alias="fonts/fonts.txt">D:/projectForOMGTU/ExpertSystem/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

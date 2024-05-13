@@ -1,0 +1,110 @@
+{
+    "classes": [
+        {
+            "className": "Tarif",
+            "object": true,
+            "properties": [
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "member": "name",
+                    "name": "name",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "member": "tariffPlan",
+                    "name": "tariffPlan",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 2,
+                    "member": "costRoaming",
+                    "name": "costRoaming",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 3,
+                    "member": "zone",
+                    "name": "zone",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 4,
+                    "member": "sms",
+                    "name": "sms",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 5,
+                    "member": "mms",
+                    "name": "mms",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": true,
+                    "index": 6,
+                    "member": "wap",
+                    "name": "wap",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Tarif",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "tarif.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "name":"Безлимит",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": true,
+        "mms": true,
+        "wap": true
+    },
+    {
+        "name":"Тариф везде ",
+        "zone": 30,
+        "costRoaming": 100,
+        "tariffPlan": 60,
+        "sms": false,
+        "mms": false,
+        "wap": false
+    },
+    {
+        "name":"Тариф новый ",
+        "zone": 55,
+        "costRoaming": 0,
+        "tariffPlan": 80,
+        "sms": false,
+        "mms": false,
+        "wap": false
+    },
+    {
+        "name":"Тариф попробуй",
+        "zone": 10,
+        "costRoaming": 1,
+        "tariffPlan": 60,
+        "sms": false,
+        "mms": false,
+        "wap": false
+    },
+    {
+        "name":"Безлимитище",
+        "zone": 50,
+        "costRoaming": 100,
+        "tariffPlan": 220,
+        "sms": true,
+        "mms": true,
+        "wap": true
+    },
+    {
+        "name":"Живем далеко",
+        "zone": 99,
+        "costRoaming": 100,
+        "tariffPlan": 500,
+        "sms": true,
+        "mms": true,
+        "wap": true
+    },
+    {
+        "name":"Вот еще тариф2",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 120,
+        "sms": true,
+        "mms": true,
+        "wap": true
+    },
+    {
+        "name":"Тариф",
+        "zone": 80,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": false,
+        "mms": false,
+        "wap": true
+    },
+    {
+        "name":"Тариф2",
+        "zone": 90,
+        "costRoaming": 100,
+        "tariffPlan": 80,
+        "sms": true,
+        "mms": true,
+        "wap": true
+    }
+
+]

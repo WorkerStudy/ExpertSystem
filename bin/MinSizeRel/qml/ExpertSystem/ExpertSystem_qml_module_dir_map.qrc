@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ExpertSystem">D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/qml/ExpertSystem</file>
+
+  </qresource>
+</RCC>

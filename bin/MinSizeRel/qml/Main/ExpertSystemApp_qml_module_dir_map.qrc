@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Main">D:/projectForOMGTU/ExpertSystem/bin/MinSizeRel/qml/Main</file>
+
+  </qresource>
+</RCC>

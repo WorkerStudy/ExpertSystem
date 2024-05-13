@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/ExpertSystem/">
+    <file alias="Constants.qml">D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">D:/projectForOMGTU/ExpertSystem/imports/ExpertSystem/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

@@ -43,7 +43,7 @@ void Backend::loadData()
 double Backend::calculateRaiting(Tarif *tarif)
 {
     return tarif->tariffPlan
-           + tarif->costRoaming
+           + (tarif->costRoaming * 0.2)
                  / (tarif->zone * (tarif->sms ? 1.1 : 1) * (tarif->mms ? 1.1 : 1)
                     * (tarif->wap ? 1.1 : 1));
 }
@@ -118,10 +118,14 @@ void Backend::sorting()
     _loaded = false;
     emit loadedChanged();
     std::sort(_subSorting.begin(), _subSorting.end(), [this](Tarif *left, Tarif *right) {
-        // Соотношение цена/уровень приема
+        // Тарифы с уровнем приема ниже 10 считаем менее предпочтительными
+        if (left->zone <= 10 && right->zone > 10) {
+            return false;
+        } else if (right->zone <= 10 && left->zone > 10) {
+            return true;
+        }
 
-        //double leftRaiting = left->tariffPlan * left->costRoaming / (left->zone);
-        //double rightRaiting = right->tariffPlan * right->costRoaming / (right->zone);
+        // Соотношение цена/уровень приема
 
         double leftRaiting = calculateRaiting(left);
         double rightRaiting = calculateRaiting(right);
